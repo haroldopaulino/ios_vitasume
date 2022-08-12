@@ -1,4 +1,4 @@
-# Vitasume - iOS App
+# VitaSume - iOS App
 
 **Development Overview** -> *Native iOS App – Swift, Storyboards, Core Data*
 
