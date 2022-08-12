@@ -6,7 +6,7 @@ This project was fun and rewarding, as it stores data locally and communicates w
 
 By using Swift’s best practices, I’ve designed all the graphics and customized the paging behavior, so to make it a unique experience.
 
-[App Store -> Vitasume](https://apps.apple.com/bf/app/vitasume/id1520641698)
+[App Store -> VitaSume](https://apps.apple.com/bf/app/vitasume/id1520641698)
 
 ![welcome](https://user-images.githubusercontent.com/28379115/184220448-53ec0ba4-2d90-4bc6-b9c8-4308e2f492b5.png)
 ![home](https://user-images.githubusercontent.com/28379115/184220435-eb0b861b-ff8a-4d54-9535-a69b4960b688.png)
