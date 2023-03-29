@@ -1,10 +1,10 @@
 # VitaSume - iOS App
 
-**Development Overview** -> *Native iOS App – Swift, Storyboards, Core Data*
+**Development Overview** -> *Native iOS App – Swift, Storyboards, Core Data, Apache, MySQL, PHP*
 
 This project was fun and rewarding, especially because people can build a basic resume and share with other VitaSume users.
 
-I used native Swift and XML layouts to develop this project, and I’ve created all image assets using Corel Draw.
+I used native Swift and Storyboards layouts to develop this project, and I’ve created all image assets using Corel Draw.
 
 The app consumes a REST API, which was written in PHP/MySQL under an Apache HTTP server, and the data is stored the app’s local SQLite Database.
 
