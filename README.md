@@ -2,7 +2,11 @@
 
 **Development Overview** -> *Native iOS App – Swift, Storyboards, Core Data*
 
-This project was fun and rewarding, as it stores data locally and communicates with a public API that I’ve also developed to provide backend support.
+This project was fun and rewarding, especially because people can build a basic resume and share with other VitaSume users.
+
+I used native Swift and XML layouts to develop this project, and I’ve created all image assets using Corel Draw.
+
+The app consumes a REST API, which was written in PHP/MySQL under an Apache HTTP server, and the data is stored the app’s local SQLite Database.
 
 By using Swift’s best practices, I’ve designed all the graphics and customized the paging behavior, so to make it a unique experience.
 
