@@ -6,7 +6,7 @@ This project was fun and rewarding, especially because people can build a basic 
 
 I used native Swift and Storyboards layouts to develop this project, and I’ve created all image assets using Corel Draw.
 
-The app consumes a REST API, which was written in PHP/MySQL under an Apache HTTP server, and the data is stored the app’s local SQLite Database.
+The app consumes a REST API and Micro Services, which were written in PHP/MySQL under an Apache HTTP server, and the data is stored the app’s local SQLite Database.
 
 By using Swift’s best practices, I’ve designed all the graphics and customized the paging behavior, so to make it a unique experience.
 
